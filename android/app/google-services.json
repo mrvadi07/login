@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "221834793781",
+    "project_id": "authscreens",
+    "storage_bucket": "authscreens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221834793781:android:086d2e0c53e7be0955b27c",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221834793781-ea7idl3ctt4s987f6i0ojcno2cp5idpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "047e8dacd293a321c06d9a8ec539713a6fdb7d8c"
+          }
+        },
+        {
+          "client_id": "221834793781-59accosor5rsjveafjgafpr7ai8fvrvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqQ1ZGAsCypIU_fkcp53bQFz1ngBWCOos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221834793781-59accosor5rsjveafjgafpr7ai8fvrvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
